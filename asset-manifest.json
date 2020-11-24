@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/demo-react-elearning/static/css/main.5f361e03.chunk.css",
+    "main.js": "/demo-react-elearning/static/js/main.8c977a0f.chunk.js",
+    "main.js.map": "/demo-react-elearning/static/js/main.8c977a0f.chunk.js.map",
+    "runtime-main.js": "/demo-react-elearning/static/js/runtime-main.5aa4f19c.js",
+    "runtime-main.js.map": "/demo-react-elearning/static/js/runtime-main.5aa4f19c.js.map",
+    "static/js/2.3a36b587.chunk.js": "/demo-react-elearning/static/js/2.3a36b587.chunk.js",
+    "static/js/2.3a36b587.chunk.js.map": "/demo-react-elearning/static/js/2.3a36b587.chunk.js.map",
+    "index.html": "/demo-react-elearning/index.html",
+    "precache-manifest.99a5708a303c9f4bcaaa445f5cd75bb0.js": "/demo-react-elearning/precache-manifest.99a5708a303c9f4bcaaa445f5cd75bb0.js",
+    "service-worker.js": "/demo-react-elearning/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/demo-react-elearning/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.3a36b587.chunk.js.LICENSE.txt": "/demo-react-elearning/static/js/2.3a36b587.chunk.js.LICENSE.txt",
+    "static/media/khoahoc1.jpg": "/demo-react-elearning/static/media/khoahoc1.014b17db.jpg",
+    "static/media/khoahoc2.jpg": "/demo-react-elearning/static/media/khoahoc2.86a8ea5e.jpg",
+    "static/media/khoahoc3.jpg": "/demo-react-elearning/static/media/khoahoc3.ba62d659.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5aa4f19c.js",
+    "static/js/2.3a36b587.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.8c977a0f.chunk.js"
+  ]
+}
