@@ -23,6 +23,8 @@ class App extends Component {
         <Route path="/signup" component={SignupScreen} />
         <Route path="/signin" component={SigninScreen} />
         <Route path="/" component={HomeScreen} />
+        <Route path="/demo-react-elearning" component={HomeScreen} />
+
       </Switch>
 
 
